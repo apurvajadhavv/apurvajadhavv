@@ -1,5 +1,3 @@
-# PowerApps Developer Profile
-
 ## 👋 Hello, I'm Apurva Arora
 
 ### 🚀 About Me
