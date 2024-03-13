@@ -1,49 +1,31 @@
-<h2 align="left">Hi 👋! My name is Apurva Jadhav and I'm a Power Platform Developer.</h2>
+# PowerApps Developer Profile
 
-###
+## 👋 Hello, I'm Apurva Arora
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurvajadhavv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurvajadhavv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🚀 About Me
 
-###
+I am a passionate PowerApps developer with a strong foundation in Microsoft Power Platform. My expertise lies in creating robust and scalable applications that empower businesses to streamline their processes and enhance productivity.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🌐 Tech Stack
 
-###
+![PowerApps](https://img.shields.io/badge/PowerApps-3498db?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Office%20365-EA4335?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🏆 Microsoft Certifications
 
-###
+- ![PL-100: Microsoft Power Platform App Maker](https://img.shields.io/badge/PL--100-5c2d91?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![PL-200: Microsoft Power Platform Functional Consultant](https://img.shields.io/badge/PL--200-5c2d91?style=for-the-badge&logo=microsoft&logoColor=white)
+- ![PL-600: Microsoft Power Platform Solution Architect](https://img.shields.io/badge/PL--600-5c2d91?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 📊 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=issues&theme=radical)
 
-<br clear="both">
+### 📫 Let's Connect
 
-<img src="https://raw.githubusercontent.com/imohitarora/imohitarora/output/snake.svg" alt="Snake animation" />
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 
-###
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussion. Happy coding! 🚀
