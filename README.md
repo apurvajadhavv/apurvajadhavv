@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Apurva Arora
+## 👋 Hello, I'm Apurva Jadhav
 
 ### 🚀 About Me
 
