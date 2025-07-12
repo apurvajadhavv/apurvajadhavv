@@ -23,7 +23,7 @@ I am a passionate PowerApps developer with a strong foundation in Microsoft Powe
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- LinkedIn: (https://www.linkedin.com/in/apurva96/)
+- YouTube: (https://www.youtube.com/@ConnectedByTech)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussion. Happy coding! 🚀
